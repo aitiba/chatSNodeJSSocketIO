@@ -5,6 +5,6 @@ Pasos para ejecutar la app:
 
 	- npm install
 
-	- npm start
+	- npm start : Te pedira una contraseña que es "prueba".
 
-	- Abrir la direccion: https://localhost:8080/
+	- Abrir la dirección: https://localhost:8080/
