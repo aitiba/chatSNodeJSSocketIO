@@ -3,8 +3,14 @@ http://uno-de-piera.com/chat-con-node-js-express-y-socketio/
 
 Pasos para ejecutar la app:
 
-	- npm install
+	- npm install -g express
+        - npm install -g express-generator
 
-	- npm start : Te pedira una contraseña que es "prueba".
+        - descargar proyecto (git clone)
 
-	- Abrir la dirección: https://localhost:8080/
+        - npm install
+
+        - npm start : Te pedira una contraseña que es "prueba".
+
+        - Abrir la dirección: https://localhost:8080/
+
